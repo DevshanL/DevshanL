@@ -1,7 +1,7 @@
 ### Hi there 👋
--😄 I’m Pasindu, a Software Engineering undergraduate at SLIIT.
--🌱 I enjoy learning new technologies.
--🚀 I'm looking for an internship.
+- 😄 I’m Pasindu, a Software Engineering undergraduate at SLIIT.
+- 🌱 I enjoy learning new technologies.
+- 🚀 I'm looking for an internship.
 
 <!--
 **DevshanL/DevshanL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
