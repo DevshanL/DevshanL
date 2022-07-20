@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 I’m Pasindu, a Software Engineering undergraduate at SLIIT.
+- 😄 I’m Devshan, an Information Technology undergraduate at SLIIT.
 - 🌱 I enjoy learning new technologies.
 - 🚀 I'm looking for an internship.
 
