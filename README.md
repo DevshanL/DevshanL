@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-- 😄 I’m Pathum, a Software Engineering undergraduate at SLIIT.
+- 😄 I’m Devshan, a Software Engineering undergraduate at SLIIT.
 - 🌱 I enjoy learning new technologies.
 
 
@@ -45,9 +45,9 @@
 
 
 
-[facebook]: https://www.facebook.com/kavindu.pethum/
-[instagram]: https://www.instagram.com/omi_sheeran/
-[linkedin]: https://www.linkedin.com/in/pathumhewage/
+[facebook]: https://www.facebook.com/devshanliyange/
+[instagram]: https://www.instagram.com/dev_va_/
+[linkedin]: https://www.linkedin.com/in/devshan-liyanage-a10412216/
 [webdevplaylist]:#
 [jsplaylist]:#
 [cssplaylist]:#
