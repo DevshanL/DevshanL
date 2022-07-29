@@ -3,7 +3,7 @@
 
 - 😄 I’m Devshan, a Information Technology undergraduate at SLIIT.
 - 🌱 I enjoy learning new technologies.
-- 🔭 Find me on.https://devshanliyanage.me/
+- 🔭 Find me on devshanliyanage.me.
 
 
 
