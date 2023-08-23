@@ -1,8 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<p align="center">
-  <a href="https://github.com/DenverCoder1">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
-</p>
+
 - 😄 I’m Devshan, a Information Technology undergraduate at SLIIT.
 - 🌱 I enjoy learning new technologies.
 - 🔭 Find me on https://devshanliyanage.me/
