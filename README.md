@@ -1,70 +1,13 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Kavindu
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kavindu-gayantha)
 
-- 😄 I’m Devshan, a Information Technology undergraduate at SLIIT.
-- 🌱 I enjoy learning new technologies.
-- 🔭 Find me on https://devshanl.vercel.app/
+![Profile views counter](https://komarev.com/ghpvc/?username=kavindu-gayantha)
 
-
-### Connect with me:
-
-
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-
-
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
-<br />
-<br />
-
-
-
-              
-
-
-
-
-
-[facebook]: https://www.facebook.com/devshanliyange/
-[instagram]: https://www.instagram.com/dev_va_/
-[linkedin]: https://www.linkedin.com/in/devshan-liyanage-a10412216/
-[webdevplaylist]:#
-[jsplaylist]:#
-[cssplaylist]:#
-[reactplaylist]:#
-
-
-<!--
-**DevshanL/DevshanL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Find me around the web :globe_with_meridians:
+* Sharing knowledge on <a href="https://medium.com/@96kavindugayantha"> Medium</a> ✍🏾
+* Professional updates on <a href="https://www.linkedin.com/in/kavindu-gayantha-73478615b/">LinkedIn</a> :mag: 
+* Personal updates on <a href="https://www.instagram.com/kavindu._.gayantha/">Instagram</a> and <a href="https://www.facebook.com/profile.php?id=100008929308296">Facebook</a> :stuck_out_tongue_winking_eye:
+* Find what I have done <a href="https://github.com/Kavindu-Gayantha">Github</a> :octocat:
+* Catch me on <a href="https://www.youtube.com/channel/UC6RVPaqYWHRwBDpl7RFRrdg">Youtube :bell: ( channel - CODE Storm ) </a> :sunglasses:
+* My activities on <a href="https://stackoverflow.com/users/9173526/kavindu-gayantha">Stackoverflow</a> :hotsprings:
+* Don't forget to checkout my <a href="https://drive.google.com/file/d/1oTjEXg49xJmTGuyKeJPSonE_rPG-8YlH/view">resume :paperclip: </a> and <a href="https://kavindu-gayantha.netlify.app/">personal website</a> :computer: :earth_asia:
